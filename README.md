@@ -99,3 +99,6 @@ Here are some useful resources if you want to learn more about CMake:
 ## License
 
 The source code is dual licensed under Public Domain and MIT -- choose whichever you prefer.
+## Images
+<img width="809" height="662" alt="image" src="https://github.com/user-attachments/assets/17734b76-8fb1-4aa1-b0f2-3f1092cd6dd8" />
+
